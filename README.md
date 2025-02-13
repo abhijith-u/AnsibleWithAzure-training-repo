@@ -1,0 +1,1 @@
+# AnsibleWithAzure-training-repo
